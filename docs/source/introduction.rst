@@ -44,7 +44,7 @@ packages::
 Update
 ===============
 
-To updated to the lasted version::
+To updated to the latest version::
 
     pip install nsetools --upgrade
 
